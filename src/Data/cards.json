@@ -1,0 +1,13 @@
+{
+    "cards":[
+        { "id":1, "eng":"Slow", "deutsch":"Langsam"},
+        { "id":2, "eng":"Liberty", "deutsch":"Freiheit"},
+        { "id":3, "eng":"Today", "deutsch":"Heute"},
+        { "id":4, "eng":"Struggle", "deutsch":"Kampf"},
+        { "id":5, "eng":"News", "deutsch":"Nachrichten"},
+        { "id":6, "eng":"Wave", "deutsch":"Welle"},
+        { "id":7, "eng":"Drink", "deutsch":"Getränk"},
+        { "id":8, "eng":"We", "deutsch":"Wir"},
+        { "id":9, "eng":"Wine", "deutsch":"Wein"},
+        { "id":10, "eng":"Traces", "deutsch":"Spuren"}
+]}
