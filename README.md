@@ -1,2 +1,2 @@
 ### Language learning cards 
-##### made with react
+##### guess the meaning of the word then flip the card
