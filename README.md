@@ -1,5 +1,5 @@
 ### Language learning cards 
 
-English-Deutsch
+`English-Deutsch`
 
-`guess the meaning of the word then flip the card to see if you were right`
+`Guess the meaning of the word then flip the card to see if you were right`
